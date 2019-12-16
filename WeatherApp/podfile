@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WeatherApp'  do
+    project 'WeatherApp'
+pod 'Alamofire'
+
+end
